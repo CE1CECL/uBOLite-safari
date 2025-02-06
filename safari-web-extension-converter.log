@@ -1,0 +1,173 @@
+uBOLite.beta.chromium
+Xcode Project Location: /Users/christopherericlentocha/Downloads/uBOLite-safari/uBOLite.beta.chromium
+App Name: uBlock Origin Lite
+App Bundle Identifier: com.yourCompany.uBlock-Origin-Lite
+Platform: All
+Language: Swift
+Warning: The following keys in your manifest.json are not supported by your current version of Safari. If these are critical to your extension, you should review your code to see if you need to make changes to support Safari:
+	description
+	options_page
+	scripting
+	version
+	default_locale
+	declarativeNetRequest
+	declarative_net_request
+	type
+	short_name
+	action
+	service_worker
+	optional_host_permissions
+	activeTab
+	storage
+	manifest_version
+	web_accessible_resources
+	name
+	icons
+Warning: Persistent background pages are not supported on iOS and iPadOS. You will need to make changes to support a non-persistent background page.
+Error copying extension files: Error Domain=NSCocoaErrorDomain Code=516 "“google-analytics_ga.js” couldn’t be copied to “web_accessible_resources” because an item with the same name already exists." UserInfo={NSSourceFilePathErrorKey=/Users/christopherericlentocha/Downloads/uBOLite-safari/uBOLite.beta.chromium/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/web_accessible_resources/google-analytics_ga.js, NSUserStringVariant=(
+    Copy
+), NSDestinationFilePath=/Users/christopherericlentocha/Downloads/uBOLite-safari/uBOLite.beta.chromium/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/web_accessible_resources/google-a, NSFilePath=/Users/christopherericlentocha/Downloads/uBOLite-safari/uBOLite.beta.chromium/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/uBlock Origin Lite/Shared (Extension)/Resources/web_accessible_resources/google-analytics_ga.js, NSUnderlyingError=0x6000011b6eb0 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+uBOLite.beta.firefox
+Xcode Project Location: /Users/christopherericlentocha/Downloads/uBOLite-safari/uBOLite.beta.firefox
+App Name: uBO Lite
+App Bundle Identifier: com.yourCompany.uBO-Lite
+Platform: All
+Language: Swift
+Warning: The following keys in your manifest.json are not supported by your current version of Safari. If these are critical to your extension, you should review your code to see if you need to make changes to support Safari:
+	description
+	scripting
+	version
+	default_locale
+	declarativeNetRequest
+	declarative_net_request
+	<all_urls>
+	options_ui
+	action
+	short_name
+	type
+	activeTab
+	scripts
+	storage
+	manifest_version
+	web_accessible_resources
+	name
+	icons
+Warning: Persistent background pages are not supported on iOS and iPadOS. You will need to make changes to support a non-persistent background page.
+Error copying extension files: Error Domain=NSCocoaErrorDomain Code=516 "“google-analytics_ga.js” couldn’t be copied to “web_accessible_resources” because an item with the same name already exists." UserInfo={NSSourceFilePathErrorKey=/Users/christopherericlentocha/Downloads/uBOLite-safari/uBOLite.beta.firefox/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/web_accessible_resources/google-analytics_ga.js, NSUserStringVariant=(
+    Copy
+), NSDestinationFilePath=/Users/christopherericlentocha/Downloads/uBOLite-safari/uBOLite.beta.firefox/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/web_accessible_resources/google-an, NSFilePath=/Users/christopherericlentocha/Downloads/uBOLite-safari/uBOLite.beta.firefox/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/uBO Lite/Shared (Extension)/Resources/web_accessible_resources/google-analytics_ga.js, NSUnderlyingError=0x60000016fc90 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+uBlock0_1.62.1b1.chromium
+Xcode Project Location: /Users/christopherericlentocha/Downloads/uBOLite-safari/uBlock0_1.62.1b1.chromium
+App Name: uBlock Origin development build
+App Bundle Identifier: com.yourCompany.uBlock-Origin-development-build
+Platform: All
+Language: Swift
+Warning: The following keys in your manifest.json are not supported by your current version of Safari. If these are critical to your extension, you should review your code to see if you need to make changes to support Safari:
+	browser_action
+	contextMenus
+	all_frames
+	options_ui
+	unlimitedStorage
+	storage
+	webRequest
+	commands
+	incognito
+	short_name
+	default_locale
+	tabs
+	webNavigation
+	<all_urls>
+	content_security_policy
+	version
+	name
+	web_accessible_resources
+	alarms
+	run_at
+	match_about_blank
+	js
+	webRequestBlocking
+	matches
+	page
+	privacy
+	manifest_version
+	icons
+	description
+Warning: Persistent background pages are not supported on iOS and iPadOS. You will need to make changes to support a non-persistent background page.
+Error copying extension files: Error Domain=NSCocoaErrorDomain Code=516 "“contents.xcworkspacedata” couldn’t be copied to “uBlock Origin development build.xcodeproj” because an item with the same name already exists." UserInfo={NSSourceFilePathErrorKey=/Users/christopherericlentocha/Downloads/uBOLite-safari/uBlock0_1.62.1b1.chromium/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/uBlock Origin development build.xcodeproj/project.xcworkspace/contents.xcworkspacedata, NSUserStringVariant=(
+    Copy
+), NSDestinationFilePath=/Users/christopherericlentocha/Downloads/uBOLite-safari/uBlock0_1.62.1b1.chromium/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/uBlock Origin development build.xcodeproj/project.xcwor, NSFilePath=/Users/christopherericlentocha/Downloads/uBOLite-safari/uBlock0_1.62.1b1.chromium/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/Shared (Extension)/Resources/uBlock Origin development build/uBlock Origin development build.xcodeproj/project.xcworkspace/contents.xcworkspacedata, NSUnderlyingError=0x600000597f60 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+uBlock0_1.62.1b1.firefox.signed
+Xcode Project Location: /Users/christopherericlentocha/Downloads/uBOLite-safari/uBlock0_1.62.1b1.firefox.signed
+App Name: uBlock Origin
+App Bundle Identifier: com.yourCompany.uBlock-Origin
+Platform: All
+Language: Swift
+Warning: The following keys in your manifest.json are not supported by your current version of Safari. If these are critical to your extension, you should review your code to see if you need to make changes to support Safari:
+	browser_action
+	menus
+	all_frames
+	options_ui
+	unlimitedStorage
+	webRequest
+	storage
+	commands
+	short_name
+	default_locale
+	tabs
+	webNavigation
+	<all_urls>
+	version
+	name
+	sidebar_action
+	web_accessible_resources
+	dns
+	alarms
+	run_at
+	match_about_blank
+	js
+	webRequestBlocking
+	matches
+	page
+	privacy
+	manifest_version
+	icons
+	description
+Warning: Persistent background pages are not supported on iOS and iPadOS. You will need to make changes to support a non-persistent background page.
+Error copying extension files: Error Domain=NSCocoaErrorDomain Code=516 "“google-analytics_inpage_linkid.js” couldn’t be copied to “web_accessible_resources” because an item with the same name already exists." UserInfo={NSSourceFilePathErrorKey=/Users/christopherericlentocha/Downloads/uBOLite-safari/uBlock0_1.62.1b1.firefox.signed/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/web_accessible_resources/google-analytics_inpage_linkid.js, NSUserStringVariant=(
+    Copy
+), NSDestinationFilePath=/Users/christopherericlentocha/Downloads/uBOLite-safari/uBlock0_1.62.1b1.firefox.signed/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/web_accessible_resources/google-, NSFilePath=/Users/christopherericlentocha/Downloads/uBOLite-safari/uBlock0_1.62.1b1.firefox.signed/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/web_accessible_resources/google-analytics_inpage_linkid.js, NSUnderlyingError=0x600001a44a80 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
+uBlock0_1.62.1b1.thunderbird
+Xcode Project Location: /Users/christopherericlentocha/Downloads/uBOLite-safari/uBlock0_1.62.1b1.thunderbird
+App Name: uBlock Origin
+App Bundle Identifier: com.yourCompany.uBlock-Origin
+Platform: All
+Language: Swift
+Warning: The following keys in your manifest.json are not supported by your current version of Safari. If these are critical to your extension, you should review your code to see if you need to make changes to support Safari:
+	browser_action
+	all_frames
+	options_ui
+	webRequest
+	storage
+	short_name
+	default_locale
+	<all_urls>
+	tabs
+	webNavigation
+	version
+	name
+	web_accessible_resources
+	alarms
+	run_at
+	webRequestBlocking
+	js
+	match_about_blank
+	page
+	matches
+	privacy
+	manifest_version
+	icons
+	description
+Warning: Persistent background pages are not supported on iOS and iPadOS. You will need to make changes to support a non-persistent background page.
+Error copying extension files: Error Domain=NSCocoaErrorDomain Code=516 "“google-analytics_inpage_linkid.js” couldn’t be copied to “web_accessible_resources” because an item with the same name already exists." UserInfo={NSSourceFilePathErrorKey=/Users/christopherericlentocha/Downloads/uBOLite-safari/uBlock0_1.62.1b1.thunderbird/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/web_accessible_resources/google-analytics_inpage_linkid.js, NSUserStringVariant=(
+    Copy
+), NSDestinationFilePath=/Users/christopherericlentocha/Downloads/uBOLite-safari/uBlock0_1.62.1b1.thunderbird/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/web_accessible_resources/google-ana, NSFilePath=/Users/christopherericlentocha/Downloads/uBOLite-safari/uBlock0_1.62.1b1.thunderbird/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/uBlock Origin/Shared (Extension)/Resources/web_accessible_resources/google-analytics_inpage_linkid.js, NSUnderlyingError=0x60000266db00 {Error Domain=NSPOSIXErrorDomain Code=17 "File exists"}}
